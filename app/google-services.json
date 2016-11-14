@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "161220426030",
+    "firebase_url": "https://beep-947b6.firebaseio.com",
+    "project_id": "beep-947b6",
+    "storage_bucket": "beep-947b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161220426030:android:962d13d24291e644",
+        "android_client_info": {
+          "package_name": "co.evelabs.beep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161220426030-ur3pg3o2keo45653cqp90f9uj5m8of19.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.evelabs.beep",
+            "certificate_hash": "528B9A6E8A449F26C33B5A88B88690806EEF02BF"
+          }
+        },
+        {
+          "client_id": "161220426030-5tvq64vsb89foj47mdpdv6blvm5860k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3kVWjlCtGv0NY4oV6H2MJFuuJ9vIhAHk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161220426030-5tvq64vsb89foj47mdpdv6blvm5860k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
